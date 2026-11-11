@@ -1,18 +1,28 @@
-# 💫 About Me:
-I m a Full Stack Java / JavaScript Developer
+# Abdellah — Développeur fullstack Java / Spring Boot / Angular / React
 
+Je développe des applications web en reliant les besoins métier, les interfaces utilisateur et les API. Cette sélection donne accès au code, aux choix techniques et aux conditions de démarrage de trois projets complémentaires.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrcut&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrcut&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcut&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Trois projets à découvrir
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Projet | Stack vérifiée dans les dépôts | Ce que le code permet d’examiner |
+| --- | --- | --- |
+| **[Discrapper — API Java](https://github.com/mrcut/discrapper_spring)** · [Interface React](https://github.com/mrcut/discrapper_api) | Java 8, Spring Boot 2.6, JPA / Hibernate, MySQL, React 18 | Architecture contrôleurs / services / repositories, validations métier, jetons de session et consultation de messages par catégorie |
+| **[ExpressFood — interface React](https://github.com/mrcut/expressFood)** · [API Express](https://github.com/mrcut/expressfoodBack) | React 18, Vite, Material UI, Node.js / Express, MongoDB | Projet collectif : panier persistant, création de commande, gestion de produits et de livreurs |
+| **[Pokédex — Angular](https://github.com/mrcut/ng-pokemon-app)** | Angular 15, TypeScript, RxJS, HttpClient, Forms | Exercice guidé : recherche réactive, formulaires partagés, CRUD sur une API simulée en mémoire |
 
----
-[![](https://visitcount.itsvg.in/api?id=mrcut&icon=0&color=0)](https://visitcount.itsvg.in)
+## Compétences illustrées par ces projets
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Java / Spring Boot :** API REST, séparation des responsabilités, accès aux données avec Spring Data JPA et MySQL.
+- **React :** composants, routage, état partagé avec Context, intégration d’API avec Axios.
+- **Angular / TypeScript :** services injectables, formulaires, routage, Observables et recherche RxJS.
+- **Fullstack :** articulation entre écrans métier, routes HTTP et stockage relationnel ou documentaire.
+
+## Contexte et transparence
+
+Discrapper est identifié comme un projet de stage dans son `pom.xml`. Son lancement complet nécessite une base à préparer ; son script Python de collecte n’est pas fourni.
+
+ExpressFood est un travail collectif. Les crédits de Nicky, Abdellah et Douaa sont conservés dans les README ; la répartition individuelle des fonctionnalités n’est pas documentée.
+
+Le Pokédex provient de la formation Angular de **Simon DIENY**, citée dans son README. Son authentification et son API sont simulées.
+
+Chaque README précise les fonctionnalités présentes, les instructions de démarrage et les limites connues. Aucune métrique de performance, capture d’écran ou réussite de test non vérifiée n’est revendiquée.
